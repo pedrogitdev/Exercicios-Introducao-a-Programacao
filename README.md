@@ -1,2 +1,2 @@
-# Exercicios-Introducao-a-Programacao
-<h1>Exercícios feitos em sala de aula.</h1>
+# **Exercicios de Introdução a Programação**
+Feitos em sala de aula.
